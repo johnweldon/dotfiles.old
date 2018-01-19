@@ -1,0 +1,10 @@
+.bash_history
+.bash_logout
+.cache/
+.config/
+.lesshst
+.netrwhist
+.profile
+.ssh/
+.sudo*
+build/
